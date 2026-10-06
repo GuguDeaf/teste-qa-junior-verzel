@@ -2,21 +2,21 @@
 Teste técnico para QA Júnior - Verzel
 
 ├── cenarios/
-│   └── cenarios-de-teste.md
-│
+ cenarios-de-teste.md
+
 ├── execucao/
-│   └── resultados.md
-│
+ resultados.md
+
 ├── bugs/
-│   └── bugs.md
-│
+ bugs.md
+
 ├── evidencias/
-│   ├── evidencia-01.png
-│   ├── evidencia-02.png
+ evidencia-01.png
+ evidencia-02.png
 
 evidencias/cep-invalido.png
-│   └── ...
-│
+ ...
+
 └── playwright/
-    ├── tests/
-    └── ...
+ tests/
+ ...
